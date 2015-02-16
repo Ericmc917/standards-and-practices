@@ -113,6 +113,7 @@ Format:
 | Edmond Burnett | [edburnett](https://github.com/edburnett) | Python, JS, C++. Background in Network & Systems Administration. ||
 | Eli Mullis | [ewm9759](https://github.com/ewm9759) | Comp sci undergrad looking to contribute to OSS. Extensive coursework in Java, plus some self-taught experience with Python, C, and Haskell.
 | Eric Chreng | [taqeric](https://github.com/taqeric) | Beginner in Python |
+| Eric Hooper | [ericmc917](https://github.com/Ericmc917) | Career changer new to coding.  Learning Python and C++ to start |
 | Eric Soderstrom | [eksoderstrom](https://github.com/eksoderstrom) ||
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
 | Espen R | [Seewhen](https://github.com/seewhen) | C++ background with java and php. Huge AI geek|
